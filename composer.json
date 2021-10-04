@@ -45,7 +45,12 @@
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.0.0",
     "wpackagist-plugin/advanced-custom-fields": "5.9.5",
+    "wpackagist-plugin/astra-sites":"2.6.22",
+    "wpackagist-plugin/ultimate-addons-for-gutenberg":"1.24.2",
     "wpackagist-plugin/the-events-calendar": "5.3.2.1",
+    "wpackagist-plugin/embed-mixcloud-advanced":"1.0.2",
+    "wpackagist-plugin/wpforms-lite":"1.6.9",
+    "wpackagist-plugin/mailchimp-for-wp":"4.8.6",
     "wpackagist-plugin/my-calendar": "3.2.14",
     "koodimonni-language/fr_fr": "*",
     "koodimonni/composer-dropin-installer": "^1.3"
